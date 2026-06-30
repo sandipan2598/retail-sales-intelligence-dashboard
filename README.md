@@ -67,7 +67,7 @@ Retail-Sales-Intelligence-Dashboard/
 
 │
 ├── data/
-│   └── retail_sales.csv
+│   └── retail_sales_dataset.csv
 │
 ├── Retail_Sales_Intelligence_Dashboard.ipynb
 │
