@@ -69,19 +69,21 @@ Retail-Sales-Intelligence-Dashboard/
 ├── data/
 │   └── retail_sales.csv
 │
-├── notebook/
-│   └── Retail_Sales_Intelligence_Dashboard.ipynb
+├── Retail_Sales_Intelligence_Dashboard.ipynb
 │
 ├── images/
 │   ├── category_revenue.png
 │   ├── city_wise_revenue.png
 │   ├── monthly_revenue_trend.png
 │   ├── top_10_product_by_revenue.png
-│   └── top_10_product_by_quantity_sold.png
+│   ├── top_10_product_by_quantity_sold.png
+│   ├── category_distribution_percentage.png
+│   ├── category_revenue_percentage.png
+│   ├── correlation_heatmap.png
+│   ├── monthly_sales_trend.png
 │
 ├── README.md
-├── requirements.txt
-└── LICENSE
+
 ```
 
 ---
@@ -104,9 +106,21 @@ Retail-Sales-Intelligence-Dashboard/
 
 # Visualizations
 
+## Category Distribution Percentage
+
+![](images/category_distribution_percentage.png)
+
+---
+
 ## Revenue by Category
 
 ![](images/category_revenue.png)
+
+---
+
+## Category Revenue Percentage
+
+![](images/category_revenue_percentage.png)
 
 ---
 
